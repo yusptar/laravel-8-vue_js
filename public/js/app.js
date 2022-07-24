@@ -1998,7 +1998,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
 
 /***/ }),
@@ -38138,7 +38137,7 @@ var staticRenderFns = [
       },
       [
         _c("span", { staticClass: "text-secondary" }, [
-          _vm._v("Build Laravel Vue JS CRUD Example - CodePalners")
+          _vm._v("Laravel Vue JS CRUD Example")
         ])
       ]
     )
